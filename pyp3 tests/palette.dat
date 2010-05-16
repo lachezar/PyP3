@@ -1,0 +1,10 @@
+tag: yellow, dark blue
+tag_data: white, light red
+custom_tag_title: black
+custom_tag_data: white, black
+volume_title: light cyan, black
+volume_uncomplete: white, black
+volume_complete: white, dark magenta
+timer_title: light green, black
+timer_data: light green, black
+

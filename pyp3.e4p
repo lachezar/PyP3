@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Project SYSTEM "Project-4.2.dtd">
+<!-- eric4 project file for project pyp3 -->
+<!-- Saved: 2009-07-15, 03:48:46 -->
+<!-- Copyright (C) 2009 ,  -->
+<Project version="4.2">
+  <ProgLanguage mixed="0">Python</ProgLanguage>
+  <ProjectType>Console</ProjectType>
+  <Description></Description>
+  <Version>0.1</Version>
+  <Author></Author>
+  <Email></Email>
+  <Sources>
+    <Source>
+      <Name>playlist.py</Name>
+    </Source>
+    <Source>
+      <Name>browse.py</Name>
+    </Source>
+    <Source>
+      <Name>audiere_gst.py</Name>
+    </Source>
+    <Source>
+      <Name>player.py</Name>
+    </Source>
+    <Source>
+      <Name>media.py</Name>
+    </Source>
+    <Source>
+      <Name>dispatcher.py</Name>
+    </Source>
+    <Source>
+      <Name>repo_manager.py</Name>
+    </Source>
+  </Sources>
+  <Forms>
+  </Forms>
+  <Translations>
+  </Translations>
+  <Resources>
+  </Resources>
+  <Interfaces>
+  </Interfaces>
+  <Others>
+  </Others>
+  <Vcs>
+    <VcsType>None</VcsType>
+  </Vcs>
+  <FiletypeAssociations>
+    <FiletypeAssociation pattern="*.pyw" type="SOURCES" />
+    <FiletypeAssociation pattern="*.idl" type="INTERFACES" />
+    <FiletypeAssociation pattern="*.py" type="SOURCES" />
+    <FiletypeAssociation pattern="*.ptl" type="SOURCES" />
+  </FiletypeAssociations>
+</Project>
